@@ -1,2 +1,1 @@
-# Income-Calculator
-This program is an income calculator. This program calculates the user's income based on marital status and annual salary or pay per hour and hours per week. Once the user inputs the previous information, the program will put the user into a tax bracket (2020 Tax Bracket) and calculate the actual income. The output will show the users projected income before taxes and after taxes annual, monthly and weekly.
+
